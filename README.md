@@ -5,3 +5,4 @@ Este template contempla:
 - Uma página HTML com header e footer;
 - Estilo CSS foi organizado no arquivo styles.css e referenciado no arquivo HTML;
 - Não há qualquer tipo de importação de frameworks como Jquery ou Bootstrap;
+- Uma pasta de imagens já com um logo genérico;
